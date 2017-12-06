@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator
+    xmlns:androd="http://schemas.android.com/apk/res/android"
+    androd:duration="1000"
+    androd:interpolator="@android:interpolator/overshoot"
+    androd:propertyName="translateX"
+    androd:repeatCount="infinite"
+    androd:repeatMode="reverse"
+    androd:valueFrom="0"
+    androd:valueTo="-10"
+    androd:valueType="floatType">
+</objectAnimator>

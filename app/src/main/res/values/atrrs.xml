@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="UnReachedColor" format="color" />
+    <attr name="ReachedColor" format="color" />
+    <attr name="InnerTextColor" format="color" />
+    <attr name="InnerTextSize" format="dimension" />
+    <attr name="Progress" format="integer" />
+
+    <declare-styleable name="LoveFlowerView">
+        <attr name="UnReachedColor" />
+        <attr name="ReachedColor" />
+        <attr name="InnerTextColor" />
+        <attr name="InnerTextSize" />
+        <attr name="Progress" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoveHeart</string>
+
+    <string name="love">跳转到LoveViewActivity</string>
+    <string name="activity1">跳转到MainActivity1</string>
+    <string name="activity2">跳转到MainActivity2</string>
+
+</resources>

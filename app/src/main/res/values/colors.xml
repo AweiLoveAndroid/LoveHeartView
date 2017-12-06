@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="c1">#FF0000</color>
+    <color name="c2">#FF3300</color>
+    <color name="c3">#FF6600</color>
+    <color name="c4">#FF9900</color>
+    <color name="c5">#FFCC00</color>
+    <color name="c6">#FFFF00</color>
+    <color name="c7">#CCFF00</color>
+    <color name="c8">#99FF00</color>
+    <color name="c9">#66FF00</color>
+    <color name="c10">#33FF00</color>
+    <color name="c11">#00FF00</color>
+    <color name="c12">#00FF33</color>
+    <color name="c13">#00FF66</color>
+    <color name="c14">#00FF99</color>
+    <color name="c15">#00FFCC</color>
+    <color name="c16">#00FFFF</color>
+    <color name="c17">#00CCFF</color>
+    <color name="c18">#0099FF</color>
+    <color name="c19">#0066FF</color>
+    <color name="c20">#0033FF</color>
+    <color name="c21">#0000FF</color>
+    <color name="c22">#3300FF</color>
+    <color name="c23">#6600FF</color>
+    <color name="c24">#9900FF</color>
+    <color name="c25">#CC00FF</color>
+    <color name="c26">#FF00FF</color>
+    <color name="c27">#FF00CC</color>
+    <color name="c28">#FF0099</color>
+    <color name="c29">#FF0066</color>
+    <color name="c30">#FF0033</color>
+
+</resources>

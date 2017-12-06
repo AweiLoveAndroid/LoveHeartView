@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator
+    xmlns:androd="http://schemas.android.com/apk/res/android"
+    androd:duration="1000"
+    androd:interpolator="@android:interpolator/overshoot"
+    androd:propertyName="translateX"
+    androd:repeatCount="infinite"
+    androd:repeatMode="reverse"
+    androd:valueFrom="0"
+    androd:valueTo="10"
+    androd:valueType="floatType">
+</objectAnimator>
+    <!--
+        duration="1000"          持续时间/毫秒
+        interpolator             修饰动画效果,定义动画的变化率(加速,减速,重复,弹跳)
+        propertyName="translateX"属性名（还有前面回顾属性动画提到的属性，另外还有颜色渐变fillColor/轨迹绘制trimPathStart）
+        repeatCount="infinite"   无限次
+        repeatMode="reverse"     重复模式:循环使用
+        valueFrom="0"            起始值
+        valueTo="10"             结束值
+        valueType="floatType"    变化值的类型:浮点型变化
+     -->
